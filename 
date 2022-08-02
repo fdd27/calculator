@@ -1,0 +1,47 @@
+[33mcommit 03575eba3cec8eaab5032003bbb57f4f89263ebf[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: fdd <fddfddfddfddfddfdd@gmail.com>
+Date:   Sun Jul 31 18:17:26 2022 +0300
+
+    Fixed basic functionality and css
+
+[33mcommit 6e5a1144c7354754da6495cb488f318993fed12c[m
+Author: fdd <fddfddfddfddfddfdd@gmail.com>
+Date:   Fri Jun 11 11:21:55 2021 +0300
+
+    non working version, fixing the functionality because it doesn't read numbers with more than one digit
+
+[33mcommit f03761dbfdd6a201b4e37174ec59eee90a89d06b[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: fdd <fddfddfddfddfddfdd@gmail.com>
+Date:   Fri May 28 16:59:01 2021 +0300
+
+    Basic functionality with only two numbers and one operator
+
+[33mcommit 9d9d53ef9417fb2e4d3f5004eebeb49417e6d7c2[m
+Author: fdd <fddfddfddfddfddfdd@gmail.com>
+Date:   Mon May 24 08:15:13 2021 +0300
+
+    HTML basis & screen functionality
+
+[33mcommit c543021d6e4079cedba4222e2e7d7c690258b642[m
+Author: fdd <fddfddfddfddfddfdd@gmail.com>
+Date:   Mon May 24 07:44:01 2021 +0300
+
+    Basic operator functions
+
+[33mcommit 589c1bee370c79a3322007ab56bbfe8a7948f229[m
+Author: kriv0 <78723791+kriv0@users.noreply.github.com>
+Date:   Mon May 24 07:35:58 2021 +0300
+
+    Create script.js
+
+[33mcommit 0d2d9b3aa3d845c17219bd10038bf116a4c7a1be[m
+Author: kriv0 <78723791+kriv0@users.noreply.github.com>
+Date:   Mon May 24 07:35:46 2021 +0300
+
+    Create index.html
+
+[33mcommit cfe16e136dbca85ca10a9c29663ebd7e0390c9c0[m
+Author: kriv0 <78723791+kriv0@users.noreply.github.com>
+Date:   Mon May 24 07:35:23 2021 +0300
+
+    Initial commit
